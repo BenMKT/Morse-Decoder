@@ -28,3 +28,4 @@ end
 
 treasurecode = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 puts decode(treasurecode)
+
